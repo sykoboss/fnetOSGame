@@ -1,0 +1,143 @@
+<root>
+<Emails>
+    <ProtocolEmails>
+        <Email>
+            <subject>Protocol - Task assigned[1]</subject>
+            <sender>JaZz</sender>
+            <ip>74.97.90.122</ip>
+            <body>Your task is as follows: \\ Uncover and provide the IP address that stole files from a local business. The IP of the affected business is 704.22.288.10. You can submit the IP address through your submission tool, located with your Notepad. \\ -J
+            </body>
+        </Email>
+        <Email>
+            <subject>Protocol - Task assigned[2]</subject>
+            <sender>JaZz</sender>
+            <ip>74.97.90.122</ip>
+            <body>Your task is as follows: \\ Shut down the malicious hacker located at 122.93.29.304. Submit 'done' in your submission panel when complete. \\ -J
+            </body>
+        </Email>
+        <Email>
+            <subject>Protocol - Task assigned[3]</subject>
+            <sender>JaZz</sender>
+            <ip>74.97.90.122</ip>
+            <body>Your task is as follows: \\ Delete a stolen database from a hacker located at 93.992.84.7.\The files should be marked as "dat", and all of them need to be deleted. Submit 'done' with your submission tool when complete. \\ -J
+            </body>
+        </Email>
+        <Email>
+            <subject>Protocol - Task assigned[4]</subject>
+            <sender>JaZz</sender>
+            <ip>74.97.90.122</ip>
+            <body>Your task is as follows: \\ Locate and shut down a malicious hacker that stole an important data file from 104.2.99.338 and other associated IPs. Submit 'done' with your submission tool when complete. \\ -J
+            </body>
+        </Email>
+        <Email>
+            <subject>An important task - J</subject>
+            <sender>JaZz</sender>
+            <ip>74.97.90.122</ip>
+            <body>Hey, you've been doing great. I have an important task for you: \\ A SPEC member recently went off of the grid, and we want to know where she went -- I want you to find out where. The last IP associated with her disappearance is 182.25.964.56. Send us back anything you find with that submission tool you've got. \\ -J
+            </body>
+        </Email>
+    </ProtocolEmails>
+    <SPECEmails>
+        <Email>
+            <subject>Greetings, invitational</subject>
+            <sender>FlaK</sender>
+            <ip>70.108.97.75</ip>
+            <body>Hello. \\ We see you've tracked down our SPEC undercover agent. The IP you provided is just a decoy -- no harm there. \\ We would like you to join SPEC. In fact, here is your first mission: \\ A friend would like to prove a point to somebody up to no good, and marking them dead is one way to do it. Modify the database record containing 'John Silva' to display 'Deceased' instead of 'Alive', in the Hospital Database found somewhere on the network at 78.993.65.427. \\ FlaK
+            </body>
+        </Email>
+        <Email>
+            <subject>SPEC - Update #1</subject>
+            <sender>FlaK</sender>
+            <ip>70.108.97.75</ip>
+            <body>Nice job navigating through that network -- I have another task for you. \\ Trace and shut down the computer at the front-end of a botnet we don't like seeing rearing its ugly head. IP of one botnet computer: 99.229.654.21 \\ FlaK
+            </body>
+        </Email>
+        <Email>
+            <subject>SPEC - Update #2</subject>
+            <sender>FlaK</sender>
+            <ip>70.108.97.75</ip>
+            <body>That net won't be threatening us anymore. A threat has come up, that I think you can handle: \\ A hacker masquerading as 'ICedR' is trying to probe his way into our central database again (located at 77.777.233.530). Go ruin his day, and I'll make it worth your while. \\ FlaK
+            </body>
+        </Email>
+        <Email>
+            <subject>SPEC - Update #3</subject>
+            <sender>FlaK</sender>
+            <ip>70.108.97.75</ip>
+            <body>Great! That should stop that for a while. \\ One of our agents just had her bank account information hacked. She wants justice herself, but she's no good at tracing. Uncover and provide the IP address that stole her information from Hit Bank, located at 100.99.388.929. \\ FlaK
+            </body>
+        </Email>
+        <Email>
+            <subject>SPEC - Update #4</subject>
+            <sender>FlaK</sender>
+            <ip>70.108.97.75</ip>
+            <body>What you just did was really more of a test of your abilities. As a result, we would like you to do the following: \\ A corrupt millionaire has been proclaiming his snobbiness for long enough. Locate his account details (by the name of 'Bob Russo'), and provide the password. \\ FlaK
+            </body>
+        </Email>
+        <Email>
+            <subject>A sincere regards and thanks</subject>
+            <sender>FlaK</sender>
+            <ip>70.108.97.75</ip>
+            <body>Hey, I know this stuff is tough. I'll give you a break -- thanks for helping out. We here at SPEC appreciate the kind of hard work and dedication that you've shown to us. \\ FlaK
+            </body>
+        </Email>
+    </SPECEmails>
+    <DraCOEmails>
+        <Email>
+            <subject>Wisdom</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>Wisdom means more than word of mouth -- it is demonstrated by sleigh of hand. \\ 88.938.27.71, locate the database, provide it's IP using '-d'. Look out for files of interest. \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>Dedication</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>Somewhere on that network was a file, '0x0C0.hex'. Find it, and upload it using the '-d' parameter. \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>Welcome</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>You have proven yourself worthy of the hacking group known as 'DraCO'. Welcome -- let's get to work. \\ Locate and delete the entire contents of a database somewhere on the network at 86.222.363.43 \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>DraCO - Mission #2</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>Nice work. Here is one to crack: \\ Shut down a power management server for SecRON Enterprises, network access point: 122.377.8.220. \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>DraCO - Mission #3</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>Well done. \\ A client has recently made a challenging request of us, and we believe you are the correct person to handle it.\nYou are to perform a digital heist of a rare Lamborghini LP-770-4 from the DDS at 63.98.263.777, by assigning it to the name 'Jack Robynski'. \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>DraCO - Mission #4</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>Excellent -- the client is elated. \\ There is malicious activity occurring all over a region of the fnet that we do not like. The easiest way to deal with it is to shut it down: get into the power grid relay at 129.88.0.93, and figure out how to shut it down. \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>A personal request</subject>
+            <sender>Yaku</sender>
+            <ip>89.97.107.117</ip>
+            <body>I appreciate the hard work you have been doing -- really. I am not a woman of many words, but I must ask of you a personal request. \\ The Government is holding top-secret documents on me in one of their internal databases. If I had a direct IP, I could tie up loose ends -- this is where you come in. Find the top-secret government IP address on their LAN: gateway 229.992.32.888. \\ This is going to be very tough -- best of luck. \\ Yaku
+            </body>
+        </Email>
+        <Email>
+            <subject>?;;'::'$%//</subject>
+            <sender>???</sender>
+            <ip>1.2.93.107</ip>
+            <body>The \ roldw \ halsl \ eydli \ to \ yuo \ ehwn \ eth \ eitm \ is \ tihrg, \ and \ ahtt \ miet \ is \ now.
+            </body>
+        </Email>
+    </DraCOEmails>
+</Emails>
+</root>
